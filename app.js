@@ -5,9 +5,10 @@ const morgan = require("morgan");
 const server = jsonServer.create();
 const router = jsonServer.router("db.json");
 const middlewares = jsonServer.defaults();
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 server.use(middlewares);
+3;
 server.use(morgan("dev"));
 server.use((req, res, next) => {
   // Middleware to disable CORS

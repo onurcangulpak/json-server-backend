@@ -1,33 +1,142 @@
 {
-  "projects": [
+  "Ladies": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "damenModel1",
+      "image": "https://static.zara.net/assets/public/7a81/7f6d/2e73411abca0/c4ea91e1a66d/T1111003004000-p/T1111003004000-p.jpg?ts=1709884226890&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/4ba1/833b/07604e9ca1bd/7828f35ffb69/02466798400-e1/02466798400-e1.jpg?ts=1710266378061&w=524",
+        "https://static.zara.net/assets/public/0d69/53d4/697e43cdb031/935c55efcc2c/02561871403-e1/02561871403-e1.jpg?ts=1710266343038&w=524",
+        "https://static.zara.net/assets/public/177d/b588/5d3f47ad8c6b/5a8c31c19bb7/02540871403-e1/02540871403-e1.jpg?ts=1710266339182&w=524",
+        "https://static.zara.net/assets/public/9151/aea1/464545c5bf7e/47744c705a52/01856903970-e1/01856903970-e1.jpg?ts=1710266305283&w=524"
+      ]
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "damenModel2",
+      "image": "https://static.zara.net/assets/public/e4b6/2535/0dde428c834e/d6ddf9af1915/T1111003002000-p/T1111003002000-p.jpg?ts=1709884226731&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/2390/cb67/06eb4d619515/10a3859e59e7/02469871251-e1/02469871251-e1.jpg?ts=1710266304926&w=524",
+        "https://static.zara.net/assets/public/7fed/b7e7/85d242f28c93/f06fbca076f0/02539873615-e1/02539873615-e1.jpg?ts=1710266372416&w=524",
+        "https://static.zara.net/assets/public/2a72/18a6/ef3a44298252/74a829d5ee92/02806767942-e1/02806767942-e1.jpg?ts=1710266304791&w=524",
+        "https://static.zara.net/assets/public/a742/5ec3/9c4d472fae92/6f2c435d285f/01856902970-e1/01856902970-e1.jpg?ts=1710266305021&w=524"
+      ]
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "damenModel3",
+      "image": "https://static.zara.net/assets/public/947c/13fb/9d2c4ba8a2b4/a8d4f35ecb73/T1111003005000-p/T1111003005000-p.jpg?ts=1709884229177&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/5a04/b233/91ef48aab06f/16ee4012eb9e/02486802800-e1/02486802800-e1.jpg?ts=1710266335595&w=281",
+        "https://static.zara.net/assets/public/fe03/7128/d19a42729ca2/b8ed86f7c1e5/14205310035-e1/14205310035-e1.jpg?ts=1710235014208&w=524",
+        "https://static.zara.net/assets/public/a742/5ec3/9c4d472fae92/6f2c435d285f/01856902970-e1/01856902970-e1.jpg?ts=1710266305021&w=509"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "damenModel4",
+      "image": "https://static.zara.net/assets/public/a7a7/ba4b/fb1a4d0b8331/90a7ce07d53d/T0247087125-p/T0247087125-p.jpg?ts=1710330451426&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/ef9e/4683/fb164275b636/55dd7ad98b50/02470871251-e1/02470871251-e1.jpg?ts=1710266340364&w=489",
+        "https://static.zara.net/assets/public/12a1/f282/dd664e68a844/702818ec342b/02475800300-e1/02475800300-e1.jpg?ts=1710266342605&w=489",
+        "https://static.zara.net/assets/public/6061/1c00/8dcf42dca842/e04ec024fe35/16309310721-e1/16309310721-e1.jpg?ts=1710235007354&w=489",
+        "https://static.zara.net/assets/public/fe03/7128/d19a42729ca2/b8ed86f7c1e5/14205310035-e1/14205310035-e1.jpg?ts=1710235014208&w=489",
+        "https://static.zara.net/assets/public/9151/aea1/464545c5bf7e/47744c705a52/01856903970-e1/01856903970-e1.jpg?ts=1710266305283&w=489"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "damenModel5",
+      "image": "https://static.zara.net/assets/public/189c/0de3/cb1a40d28995/0799ab5a7db6/T0214202562-p/T0214202562-p.jpg?ts=1710330452402&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/0735/eda3/06ff4f8d94d2/29b47755928e/02142025620-e1/02142025620-e1.jpg?ts=1710266350551&w=489",
+        "https://static.zara.net/assets/public/d606/e2a1/a1444c4f9f23/f16de827fa07/06098995526-e1/06098995526-e1.jpg?ts=1710266329325&w=489",
+        "https://static.zara.net/assets/public/1170/e4c4/3d2e427e8ae4/829131c8868f/14205310090-e1/14205310090-e1.jpg?ts=1710235012474&w=489",
+        "https://static.zara.net/assets/public/328c/f17a/1fe24ac28610/dc9849c8048c/01918803500-e1/01918803500-e1.jpg?ts=1710266322035&w=489",
+        "https://static.zara.net/assets/public/9151/aea1/464545c5bf7e/47744c705a52/01856903970-e1/01856903970-e1.jpg?ts=1710266305283&w=489"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "damenModel6",
+      "image": "https://static.zara.net/assets/public/4569/0976/4bfd4565b092/22bf4170ac88/T0196610071-p/T0196610071-p.jpg?ts=1710330453578&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/4ed4/2bfd/f57e47038f43/d4b24889c8ac/01966100710-e1/01966100710-e1.jpg?ts=1710266321501&w=489",
+        "https://static.zara.net/assets/public/48e9/3c04/86ce4faebb0e/8666b08490bf/02480800623-e1/02480800623-e1.jpg?ts=1710266381550&w=489",
+        "https://static.zara.net/assets/public/a7f3/1e8f/dcc5423180d9/ec5c75b0780e/14205310600-e1/14205310600-e1.jpg?ts=1710235013674&w=489"
+      ]
+    }
+  ],
+  "Men": [
+    {
+      "id": 1,
+      "name": "HerrenModel1",
+      "image": "https://static.zara.net/assets/public/7d58/c451/0bc341e890cc/870d292c2d4b/T0408870280-p/T0408870280-p.jpg?ts=1710322003508&w=365",
+      "detailImg": [
+        "https://static.zara.net/assets/public/d54c/1889/875f415cbfc4/619435966f93/04088702800-e1/04088702800-e1.jpg?ts=1710267326658&w=524",
+        "https://static.zara.net/assets/public/8809/f730/73674aa6b672/67e23ce6ba53/04350025800-e1/04350025800-e1.jpg?ts=1710267350800&w=524",
+        "https://static.zara.net/assets/public/f127/820a/fba9409d9309/e4fd52795b21/12429320700-e1/12429320700-e1.jpg?ts=1710238118057&w=524",
+        "https://static.zara.net/assets/public/da0e/ee81/cbb34a588e07/9a2000fb08ac/06722400505-e1/06722400505-e1.jpg?ts=1710245091689&w=524"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "HerrenModel2",
+      "image": "https://static.zara.net/assets/public/1389/4417/90ef48658e1e/57ee9c2a050b/T0072242351-a1/T0072242351-a1.jpg?ts=1710323746611&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/7838/e60e/e40841cfb8e1/12b72bd4a31c/04371118020-e1/04371118020-e1.jpg?ts=1710329428678&w=489",
+        "https://static.zara.net/assets/public/9675/0a57/2be7491ca8fd/4d72b6291357/00722423514-e1/00722423514-e1.jpg?ts=1710267349821&w=489",
+        "https://static.zara.net/assets/public/bd09/6e29/814b4ffc96c0/a48a7da226f0/04357087710-e1/04357087710-e1.jpg?ts=1710267320476&w=489",
+        "https://static.zara.net/assets/public/d487/a82a/e25c44d7b3c7/5faefee6043a/12744320723-e1/12744320723-e1.jpg?ts=1710238124326&w=489",
+        "https://static.zara.net/assets/public/2c2f/1c40/1ea54734ba56/618ee6e6e0b3/01012416808-e1/01012416808-e1.jpg?ts=1710245071314&w=489"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "HerrenModel3",
+      "image": "https://static.zara.net/assets/public/8512/fb7e/0e11453f9ea9/2d9a7f5a4af8/T0215470070-p/T0215470070-p.jpg?ts=1710326965364&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/7baa/97f3/fbac4408af7f/eb8dfa9c8bf1/04363032251-e1/04363032251-e1.jpg?ts=1710267333263&w=489",
+        "https://static.zara.net/assets/public/29c9/f6c1/1cb64d23883d/7b9c3e1cb42f/03992466712-e1/03992466712-e1.jpg?ts=1710267359811&w=489",
+        "https://static.zara.net/assets/public/49c6/b982/443444c18847/22044c8bfc68/02154700700-e1/02154700700-e1.jpg?ts=1710267336110&w=489",
+        "https://static.zara.net/assets/public/d487/a82a/e25c44d7b3c7/5faefee6043a/12744320723-e1/12744320723-e1.jpg?ts=1710238124326&w=489",
+        "https://static.zara.net/assets/public/2c2f/1c40/1ea54734ba56/618ee6e6e0b3/01012416808-e1/01012416808-e1.jpg?ts=1710245071314&w=489"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "HerrenModel4",
+      "image": "https://static.zara.net/assets/public/1e16/bd14/96ed4ea2a990/ac2925c93bee/T0072242466-p/T0072242466-p.jpg?ts=1710325557556&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/dac8/5435/bf994a67923b/05581c7d987b/00722424660-e1/00722424660-e1.jpg?ts=1710267350561&w=489",
+        "https://static.zara.net/assets/public/c42f/f9e5/039d4519b0dc/254d32808b3c/00340801104-e1/00340801104-e1.jpg?ts=1710267356303&w=489",
+        "https://static.zara.net/assets/public/b6a0/2d60/ee1b41d29958/ed803fa7bed7/13962320002-e1/13962320002-e1.jpg?ts=1710238116871&w=489",
+        "https://static.zara.net/assets/public/d487/a82a/e25c44d7b3c7/5faefee6043a/12744320723-e1/12744320723-e1.jpg?ts=1710238124326&w=489"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "HerrenModel5",
+      "image": "https://static.zara.net/assets/public/3bf7/e071/a17d4891924c/244dbed4baf5/T0436005740-p/T0436005740-p.jpg?ts=1710323402881&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/bc02/be94/eaa14aa1ac9a/4aa233edd33c/04351035710-e1/04351035710-e1.jpg?ts=1710267358443&w=516",
+        "https://static.zara.net/assets/public/87b7/5c93/711d4e9698f6/1a590c9caf01/03003450727-e1/03003450727-e1.jpg?ts=1710267334468&w=516",
+        "https://static.zara.net/assets/public/0474/e170/f39d4288a182/3686e0b55a02/04360057407-e1/04360057407-e1.jpg?ts=1710267340717&w=516",
+        "https://static.zara.net/assets/public/f127/820a/fba9409d9309/e4fd52795b21/12429320700-e1/12429320700-e1.jpg?ts=1710238118057&w=516",
+        "https://static.zara.net/assets/public/098a/de2e/017b4438bcb4/f8fb1f15a3c6/06722400712-e1/06722400712-e1.jpg?ts=1710245080139&w=489"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "HerrenModel6",
+      "image": "https://static.zara.net/assets/public/d190/4ff1/44cd49af918b/e7e964e5b82b/T0434902580-p/T0434902580-p.jpg?ts=1710326852165&w=750",
+      "detailImg": [
+        "https://static.zara.net/assets/public/c2c5/270b/c2a44479be80/88dd43897060/04349025800-e1/04349025800-e1.jpg?ts=1710267355437&w=489",
+        "https://static.zara.net/assets/public/8809/f730/73674aa6b672/67e23ce6ba53/04350025800-e1/04350025800-e1.jpg?ts=1710267350800&w=489",
+        "https://static.zara.net/assets/public/90ad/ebcb/b3e04e1593e9/8b75d8f783fe/04088701733-e1/04088701733-e1.jpg?ts=1710267304458&w=489",
+        "https://static.zara.net/assets/public/f127/820a/fba9409d9309/e4fd52795b21/12429320700-e1/12429320700-e1.jpg?ts=1710238118057&w=489",
+        "https://static.zara.net/assets/public/fea9/5089/81b44d0da1a4/5a5182741bb5/02555401800-e1/02555401800-e1.jpg?ts=1710245069498&w=489"
+      ]
     }
   ]
 }
