@@ -2,7 +2,7 @@
   "Ladies": [
     {
       "id": 1,
-      "name": "damenModel1",
+      "name": "Female Model 1",
       "image": "https://static.zara.net/assets/public/7a81/7f6d/2e73411abca0/c4ea91e1a66d/T1111003004000-p/T1111003004000-p.jpg?ts=1709884226890&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/4ba1/833b/07604e9ca1bd/7828f35ffb69/02466798400-e1/02466798400-e1.jpg?ts=1710266378061&w=524",
@@ -25,7 +25,7 @@
     },
     {
       "id": 2,
-      "name": "damenModel2",
+      "name": "Female Model 2",
       "image": "https://static.zara.net/assets/public/e4b6/2535/0dde428c834e/d6ddf9af1915/T1111003002000-p/T1111003002000-p.jpg?ts=1709884226731&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/2390/cb67/06eb4d619515/10a3859e59e7/02469871251-e1/02469871251-e1.jpg?ts=1710266304926&w=524",
@@ -48,7 +48,7 @@
     },
     {
       "id": 3,
-      "name": "damenModel3",
+      "name": "Female Model 3",
       "image": "https://static.zara.net/assets/public/947c/13fb/9d2c4ba8a2b4/a8d4f35ecb73/T1111003005000-p/T1111003005000-p.jpg?ts=1709884229177&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/5a04/b233/91ef48aab06f/16ee4012eb9e/02486802800-e1/02486802800-e1.jpg?ts=1710266335595&w=281",
@@ -68,7 +68,7 @@
     },
     {
       "id": 4,
-      "name": "damenModel4",
+      "name": "Female Model 4",
       "image": "https://static.zara.net/assets/public/a7a7/ba4b/fb1a4d0b8331/90a7ce07d53d/T0247087125-p/T0247087125-p.jpg?ts=1710330451426&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/ef9e/4683/fb164275b636/55dd7ad98b50/02470871251-e1/02470871251-e1.jpg?ts=1710266340364&w=489",
@@ -92,7 +92,7 @@
     },
     {
       "id": 5,
-      "name": "damenModel5",
+      "name": "Female Model 5",
       "image": "https://static.zara.net/assets/public/189c/0de3/cb1a40d28995/0799ab5a7db6/T0214202562-p/T0214202562-p.jpg?ts=1710330452402&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/0735/eda3/06ff4f8d94d2/29b47755928e/02142025620-e1/02142025620-e1.jpg?ts=1710266350551&w=489",
@@ -118,7 +118,7 @@
     },
     {
       "id": 6,
-      "name": "damenModel6",
+      "name": "Female Model 6",
       "image": "https://static.zara.net/assets/public/4569/0976/4bfd4565b092/22bf4170ac88/T0196610071-p/T0196610071-p.jpg?ts=1710330453578&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/4ed4/2bfd/f57e47038f43/d4b24889c8ac/01966100710-e1/01966100710-e1.jpg?ts=1710266321501&w=489",
@@ -140,7 +140,7 @@
   "Men": [
     {
       "id": 1,
-      "name": "HerrenModel1",
+      "name": "Male Model 1",
       "image": "https://static.zara.net/assets/public/7d58/c451/0bc341e890cc/870d292c2d4b/T0408870280-p/T0408870280-p.jpg?ts=1710322003508&w=365",
       "detailImg": [
         "https://static.zara.net/assets/public/d54c/1889/875f415cbfc4/619435966f93/04088702800-e1/04088702800-e1.jpg?ts=1710267326658&w=524",
@@ -163,7 +163,7 @@
     },
     {
       "id": 2,
-      "name": "HerrenModel2",
+      "name": "Male Model 2",
       "image": "https://static.zara.net/assets/public/1389/4417/90ef48658e1e/57ee9c2a050b/T0072242351-a1/T0072242351-a1.jpg?ts=1710323746611&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/7838/e60e/e40841cfb8e1/12b72bd4a31c/04371118020-e1/04371118020-e1.jpg?ts=1710329428678&w=489",
@@ -189,7 +189,7 @@
     },
     {
       "id": 3,
-      "name": "HerrenModel3",
+      "name": "Male Model 3",
       "image": "https://static.zara.net/assets/public/8512/fb7e/0e11453f9ea9/2d9a7f5a4af8/T0215470070-p/T0215470070-p.jpg?ts=1710326965364&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/7baa/97f3/fbac4408af7f/eb8dfa9c8bf1/04363032251-e1/04363032251-e1.jpg?ts=1710267333263&w=489",
@@ -212,7 +212,7 @@
     },
     {
       "id": 4,
-      "name": "HerrenModel4",
+      "name": "Male Model 4",
       "image": "https://static.zara.net/assets/public/1e16/bd14/96ed4ea2a990/ac2925c93bee/T0072242466-p/T0072242466-p.jpg?ts=1710325557556&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/dac8/5435/bf994a67923b/05581c7d987b/00722424660-e1/00722424660-e1.jpg?ts=1710267350561&w=489",
@@ -235,7 +235,7 @@
     },
     {
       "id": 5,
-      "name": "HerrenModel5",
+      "name": "Male Model 5",
       "image": "https://static.zara.net/assets/public/3bf7/e071/a17d4891924c/244dbed4baf5/T0436005740-p/T0436005740-p.jpg?ts=1710323402881&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/bc02/be94/eaa14aa1ac9a/4aa233edd33c/04351035710-e1/04351035710-e1.jpg?ts=1710267358443&w=516",
@@ -261,7 +261,7 @@
     },
     {
       "id": 6,
-      "name": "HerrenModel6",
+      "name": "Male Model 6",
       "image": "https://static.zara.net/assets/public/d190/4ff1/44cd49af918b/e7e964e5b82b/T0434902580-p/T0434902580-p.jpg?ts=1710326852165&w=750",
       "detailImg": [
         "https://static.zara.net/assets/public/c2c5/270b/c2a44479be80/88dd43897060/04349025800-e1/04349025800-e1.jpg?ts=1710267355437&w=489",
