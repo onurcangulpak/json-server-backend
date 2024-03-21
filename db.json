@@ -288,17 +288,43 @@
   ],
   "New": [
     {
-      "title": "Zara dress",
+      "title": "Mango Day dress",
       "category": "women",
       "condition": "likeNew",
+      "description": "Best quality, Zara Brand",
+      "price": "40",
+      "imageUrl": "https://img01.ztat.net/article/spp-media-p1/2772e24dcf0a407198e6eb30b547e893/48796152984b404da89302287ae18728.jpg?imwidth=1800&filter=packshot",
+      "email": "alitorbati1368@gmail.com",
+      "phone": "015732273024",
+      "postCode": "72074",
+      "street": "Liststraße",
+      "id": 49
+    },
+    {
+      "title": "my Zara Dress",
+      "category": "women",
+      "condition": "used",
       "description": "very fansy",
-      "price": "100",
+      "price": "70",
       "imageUrl": "https://static.zara.net/assets/public/5a04/b233/91ef48aab06f/16ee4012eb9e/02486802800-e1/02486802800-e1.jpg?ts=1710266335595&w=388",
       "email": "alitorbati1368@gmail.com",
       "phone": "015732273024",
       "postCode": "72074",
       "street": "Liststraße",
-      "id": 12
+      "id": 50
+    },
+    {
+      "title": "Men's Shirt Top",
+      "category": "",
+      "condition": "",
+      "description": "Solid Waffle Pattern Lapel Short Sleeve Closure Summer Male Casual Button Up Lapel Shirt For Daily Men",
+      "price": "45",
+      "imageUrl": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/6fdf9ba6325e6ff23bc290474f13e9fc.jpg?imageView2/2/w/800/q/70",
+      "email": "alitorbati1368@gmail.com",
+      "phone": "015732273024",
+      "postCode": "72074",
+      "street": "Liststraße",
+      "id": 51
     }
   ]
 }
